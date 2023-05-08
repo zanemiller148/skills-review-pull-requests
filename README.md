@@ -192,7 +192,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
-
+// Add code!
 <details id=5 open>
 <summary><h2>Step 5: Apply suggested changes</h2></summary>
 
